@@ -4,17 +4,17 @@
 
 ### git status
 
-**verifica o status dos arquivos e paastas dentro do nosso repositório**
+**verifica o status dos arquivos e paastas dentro do nosso repositório.**
 
 ### git add
 
 #### git add .
 
-**adiciona todos os arquivos para a esteira de commit**
+**adiciona todos os arquivos para a esteira de commit.**
 
 #### fit add [caminho do arquivo]
 
-**adiciona um arquivo em específico**
+**adiciona um arquivo em específico.**
 
 ## Aula 06: comandos maus utulizados - commmit
 
