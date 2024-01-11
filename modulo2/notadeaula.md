@@ -22,3 +22,18 @@ commitando os arquivos modificados
 modificando mais arquivos e não commitando
 
 ## Aula 07: Comandos mais utilizados - git push e pull
+
+### git push
+
+(primeiro push):
+git push --set-upstream origin master
+
+### git pull
+
+## Branchs
+
+Criando uma branch pelo terminal.
+
+Alternando para essa nova branch.
+
+git checkout -b nome-branch
