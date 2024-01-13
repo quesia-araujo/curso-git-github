@@ -31,3 +31,57 @@ adicionei e commitei as alterações que fiz.
     4. Digite: `git rebase upstream/master`.
 
 ### Aula 03: Criando sua branch para enviar as suas alterações
+
+git checkout -b add-meu-user-quesia
+
+faz as alterações.
+git status
+git add .
+git commit -m "atualizando arquivo para pull request"
+git push
+apare que é preciso configurar a upstream
+git push --set-upstream origin add-meu-user-quesia
+Ele sugere que crie uma pullrequest, é só seguir o link.
+Abre a pagina do github "open a pull request".
+
+### Aula 04: Criando sua primeira pull request
+
+git checkout -b
+git pull
+git status
+git add
+git commit
+configura upstream
+abre link
+
+Adicionar o Title
+Adicionar revisor -Reviewers
+Assignees - Responsável  pela pull request (eu mesma).
+Adicionar comentário,  pq está encaminhando a pr.
+Abra a pull request
+
+Revião da pull
+ir em pull requests
+files changed
+Repetir a quantidade de vezes necessária: ir no mais, adicionar comentário de revisão (add review comment).
+Finish your review
+selecionar opções: comment e request changes.
+submit review
+
+Corrigindo a revisão
+duas opções: pelo github ou pela máquina.
+
+pela máquina local:
+Faz os ajustes
+git status
+git add .
+git commit
+git push
+comentar que é ajuste
+
+Revisão
+files changed
+approve e comentario
+submite review
+Merge pull request
+deletar branch
