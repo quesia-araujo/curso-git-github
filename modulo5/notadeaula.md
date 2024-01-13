@@ -17,5 +17,3 @@ Selecione a opção new project.
 Em template, escolhi kanban.
 
 Em Project settings.
-
-### Aula 03: Abrindo issues para seus projetos em andamento e vinculando ao projeto

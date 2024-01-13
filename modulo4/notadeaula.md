@@ -91,7 +91,3 @@ deletar branch
 Abrindo issues para as notas de aula de cada módulo
 
 Vinculando elas ao projeto como se fossem cards
-
-### Aula 04: Fazendo pull requests para encerrar as issues e mover os  cards
-
-criando uma nova branch
