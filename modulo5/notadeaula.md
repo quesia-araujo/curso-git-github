@@ -10,9 +10,12 @@ Features do github project
 
 ### Aula 02: Criando seus primeiros cards no Kanban
 
-Na pasta do repositório vá em project
-Selecione a opção new project
-Em template, escolhi kanban
-Em Project settings
+Na pasta do repositório vá em project.
+
+Selecione a opção new project.
+
+Em template, escolhi kanban.
+
+Em Project settings.
 
 ### Aula 03: Abrindo issues para seus projetos em andamento e vinculando ao projeto
